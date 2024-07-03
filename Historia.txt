@@ -8,4 +8,4 @@ Va al gimnasio.
 
 Vive en Resistencia.
 
-Proximamente sabrá Git.
+Proximamente sabrá Git y JavaScript.
