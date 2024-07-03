@@ -1,13 +1,11 @@
-Esta es la historia de santiago yeaaaaaaaaaaaaah
+Esta es la historia de santiago.
 
 Santi tiene 18 años y estudia programación.
 
-Ya sabe Html y CSS
+Actualmente está aprendiendo Html y CSS.
 
-yeaaaaaaaaaah
-
-Actualmente va al gimnasio
+Va al gimnasio.
 
 Vive en Resistencia.
 
-Messi
+Proximamente sabrá Git.
