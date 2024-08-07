@@ -1,8 +1,9 @@
-h1 {
-    background-color: #abf;
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #393;
 }
 
-body {
-    font-family: sans-serif;
-    background-color: #f99;
+span{
+    font-size: 12px;
+    font-weight: 600;
 }
