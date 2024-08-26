@@ -8,6 +8,8 @@ Va al gimnasio.
 
 Main 1
 
+Main 2
+
 Vive en Resistencia.
 
 Proximamente sabrá Git y JavaScript.
